@@ -70,9 +70,7 @@ def click_or_restart(driver):
         driver.find_element_by_id("id_submitbutton").click()
         time.sleep(1)
     else:
-        print("refresh")
         driver.refresh()
-        print("refresh done")
         time.sleep(2)
         click_or_restart(driver)
 
