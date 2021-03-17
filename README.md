@@ -11,6 +11,10 @@ auto upload files to moodle drag'n'drop fields
   - `pip install selenium`
   - `pip install helium`
 
+# Run
+  - open console and cd into code directory
+  - `python.exe .\uploader.py`
+
 # Restrictions and improvement plans
   - [ ] only works with same formatted Link on moodle page ("Anwesenheit dd.mm.yyyy") &#8594; add dynamic feature
   - [ ] get username AND password from file
