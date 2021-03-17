@@ -31,3 +31,4 @@ auto upload files to moodle drag'n'drop fields
   - [ ] improve page reloads with loops instead of try-except and function calls
   - [ ] add headless browser support
   - [ ] add Firefox support
+  - [ ] improve code execution &#8594; instead of time.sleep() wait until site is fully loaded
