@@ -2,7 +2,7 @@
 auto upload files to moodle drag'n'drop fields
 
 # System Requirements
-  - Python 3.8+
+  - Python 3+
   - Selenium
   - Helium
   - Google Chrome
