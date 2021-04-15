@@ -16,7 +16,7 @@ auto upload files to moodle drag'n'drop fields
 # Run
   - open console and cd into code directory
   ```powershell
-  python.exe .\uploader.py`
+  python.exe .\uploader.py
   ```
 
 # Restrictions and improvement plans
